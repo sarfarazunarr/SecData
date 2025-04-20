@@ -20,7 +20,7 @@ Secure Data Store is a web application that allows users to store their data sec
 *   User can delete the data they have uploaded.
 
 ## How to use
-1.  Go to the [Secure Data Store website](https://secure-data-store.herokuapp.com/).
+1.  Go to the [Secure Data Store website](https://secure-data-tool.streamlit.app/).
 2.  Click on the "Create Account" button.
 3.  Fill in the required details and click on the "Register Now" button.
 4.  Click on the "Login" button.
