@@ -30,12 +30,6 @@ Secure Data Store is a web application that allows users to store their data sec
 8.  Click on the "View Data" button to view all the data you have uploaded.
 9.  Click on the "Delete Data" button to delete the data you have uploaded.
 
-## Screenshots
-![Login Page](screenshots/login.png)
-![Home Page](screenshots/home.png)
-![Add Data Page](screenshots/add-data.png)
-![View Data Page](screenshots/view-data.png)
-
 ## Tech Stack
 *   Frontend, Backend: Streamlit
 *   Backend: Flask
