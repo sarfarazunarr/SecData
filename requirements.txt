@@ -1,0 +1,4 @@
+streamlit
+cryptography
+backports.pbkdf2
+secrets
